@@ -1,0 +1,35 @@
+.header{
+padding-top: 24px;
+padding-bottom: 24px;
+font-weight: 1280px;
+}
+.header-row{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.header-logo{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 11px;
+    letter-spacing: 0.99px;
+    margin-left: 84px;
+    margin-top: -4px;
+}
+.header-nav{
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+letter-spacing: 0.99px;
+align-items: right;
+color: #171717E5;
+margin-right: 56px;
+}
+.header-nav ul{
+    display: flex;
+}
+.header-nav li{
+    margin-right: 18px;
+    
+}

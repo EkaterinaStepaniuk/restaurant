@@ -1,0 +1,61 @@
+.wine{
+height: 800px;
+background-image: url(/jpg/fon/IMAGE.png);
+}
+.wine-photo{
+    margin-top: 130px;
+    margin-left: 109px;
+    width: 404px;
+    height: 539px;
+}
+.wine-off{
+    margin-top: 54px;
+    margin-left: 385px;
+    width: 123px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+}
+.honest{
+    margin-top: 43px;
+    margin-left: 317px;
+    width: 259px;
+    height: 189px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 63px;
+    color: #000000;
+    letter-spacing: 1.8px;
+    text-align: center;
+}
+.contentwine{
+    margin-top: 37px;
+    margin-left: 228px;
+    width: 438px;
+    height: 112px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.drinklist{
+    margin-top: 28px;
+    margin-left: 403px;
+    width: 89px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+    text-align: center;
+}
+.wine-row{
+    display: flex;
+    
+}

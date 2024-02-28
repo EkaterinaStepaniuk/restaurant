@@ -1,0 +1,46 @@
+.gift{
+width: 1280px;
+height: 491px;
+}
+.gift-row{
+display:flex;
+}
+.gift-photo{
+width: 514px;
+height: 359px;
+margin-top: 66px;
+margin-left: 98px;
+}
+.vouchers{
+    margin-top: 98px;
+    margin-left: 125px;
+    width: 119px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+}
+.need{
+    margin-top: 38px;
+    margin-left: 125px;
+    width: 371px;
+    height: 126px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 63px;
+    color: #171717;
+    letter-spacing: 1.8px;
+}
+.contentgift{
+    margin-top: 51px;
+    margin-left: 125px;
+    width: 389px;
+    height: 68px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+}

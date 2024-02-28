@@ -1,0 +1,65 @@
+.menu{
+    height: 742px;
+width: 1280px;
+}
+.menu-row{
+display: flex;
+justify-content: space-between;
+}
+
+.title-menu{
+    margin-top: 160px;
+    margin-left: 109px;
+    width: 81px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+}
+.title2{
+    margin-top: 48px;
+    margin-left: 109px;
+    width: 353px;
+    height: 126px;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 63px;
+    color: #171717;
+    letter-spacing: 1.8px;
+}
+.sector-title{
+    margin-top: 52px;
+    margin-left: 109px;
+    width: 379px;
+    height: 68px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+}
+.sector-view{
+    margin-top: 34px;
+    margin-left: 109px;
+    width: 126px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+}
+.rectangle1{
+    margin-top: 5.45px;
+    margin-left: 109px;
+    width: 126.05px;
+    height: 1px;
+}
+.photo-menu1{
+    margin-top: 137px;
+    margin-left: 304px;
+    width: 404px;
+    height: 539px;
+}

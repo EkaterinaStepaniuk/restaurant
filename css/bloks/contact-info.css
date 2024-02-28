@@ -1,0 +1,115 @@
+.contact-info{
+height: 653px;
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+
+}
+.info-logo-1{
+    margin-top: 23px;
+    margin-left: 565px;
+    width: 150px;
+    height: 150px;
+    
+}
+.info-text1{
+    margin-top: 73px;
+    margin-left: 473px;
+    width: 334px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+    text-align: center;
+}
+.info-text2{
+    margin-top: 15px;
+    margin-left: 581px;
+    width: 118px;
+    height: 13px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000;
+    letter-spacing: 2.08px;
+}
+.info-logo-2{
+    margin-top: 24px;
+    margin-left: 552px;
+    width: 175px;
+    height: 175px;
+}
+.sociality{
+display: flex;
+
+}
+.info-text-3{
+    margin-top: 23px;
+    margin-left: 536px;
+    width: 100px;
+    height: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.geo1{
+    margin-top: 1.28px;
+    margin-left: 535.63px;
+    width: 99.89px;
+    height: 1px;
+}
+.info-text-4{
+    margin-top: 23px;
+   margin-left: 21px;
+    width: 100px;
+    height: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.geo2{
+    margin-left: 23px;
+    margin-top: 1.28px;
+    width: 91.56px;
+    height: 1px;
+}
+.day1{
+    margin-top: 15px;
+    margin-left: 518px;
+    width: 244px;
+    height: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.day2{
+    margin-top: 2px;
+    margin-left: 520px;
+    width: 240px;
+    height: 23px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #000000;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.sociality1{
+    display: grid;
+}
+.sociality2{
+    display: grid;
+}
+.info{
+    align-items: center;
+}
